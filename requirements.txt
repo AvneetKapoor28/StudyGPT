@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+sentence-transformers
+faiss-cpu
+python-dotenv
+
+
+pypdf
+py-heif
+unstructured_inference
